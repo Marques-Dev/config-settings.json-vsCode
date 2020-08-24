@@ -1,8 +1,8 @@
 # config-settings.json-vsCode
 Minhas configuraçoes
 
-
 {
+ {
     // Define o tema do VsCode
      "workbench.colorTheme": "Dracula",
 
@@ -35,4 +35,5 @@ Minhas configuraçoes
     "editor.rulers": [88,120],
 
     "git.ignoreLimitWarning": true
+ }
 }
