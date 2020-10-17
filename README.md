@@ -1,8 +1,9 @@
 # config-settings.json-vsCode
 #Minhas configuraçoes
 
-//https://github.com/Marques-Dev/config-settings.json-vsCode
- 
+    ////https://github.com/Marques-Dev/config-settings.json-vsCode
+    
+    
     // Define o tema do VsCode
      "workbench.colorTheme": "Dracula",
 
@@ -36,4 +37,3 @@
 
     "git.ignoreLimitWarning": true
  
-
