@@ -14,7 +14,7 @@
     
     //Configura o tamanho da familia da fonte
     "editor.tabSize": 2,
-    "editor.fontSize": 18,
+    "editor.fontSize": 17,
     "editor.lineHeight": 22,
     "editor.fontFamily": "Fira code",
     "editor.fontLigatures": true,
