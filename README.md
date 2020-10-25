@@ -4,7 +4,6 @@
     //https://github.com/Marques-Dev/config-settings.json-vsCode
     
     
-    
         {
           "terminal.integrated.fontSize": 14,
 
